@@ -4,6 +4,8 @@ Clean Air and Safe Travels.
 
 Capstone Project for Data Analytics Cohort #11 program at Nashville Software School.
 
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmFhMzg3ZWQtMTU1My00YjdhLWE3ZTktZDZlMjhiZTAwMTAzIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+
 Pollution effects all of us and air pollution is a particularly communal experience. Many people may only think about it while sitting behind an old car at a stop light but those emissions can, and do, build in the local environment and cause harm even when unnoticeable. These pollutants pose many mental and physical hazards. Is the air in Nashville affecting my health? Is it making my commute more dangerous?
 
 
@@ -13,7 +15,7 @@ As a parent to two young boys who run outside as soon as they wake up and as som
 
 A few months ago I was listening to the radio and heard a story about air pollution in the form of particulate matter 2.5 microns or less (pm2.5) and it's negative health effects.
 
-ìOne of the most famous examples is probably the case of umpires Ö On days in cities where thereís especially high PM2.5, we see that these umpires make more mistakes Ö A lot of folks have looked at performance on standardized tests after thereís exposure. Weíre also seeing this with behavior and depression. In more of the medical and epidemiological literature, we see that there are later-in-life outcomes that are very bad.î
+‚ÄúOne of the most famous examples is probably the case of umpires ‚Ä¶ On days in cities where there‚Äôs especially high PM2.5, we see that these umpires make more mistakes ‚Ä¶ A lot of folks have looked at performance on standardized tests after there‚Äôs exposure. We‚Äôre also seeing this with behavior and depression. In more of the medical and epidemiological literature, we see that there are later-in-life outcomes that are very bad.‚Äù
 https://www.resources.org/resources-radio/pollution-causes-crashes-particulate-matter-and-traffic-accidents-with-travis-roach/
 
 Travis Roach, an associate professor and director of the Central Policy Institute at the University of Central Oklahoma, goes on to explain there is an increase in fatal car crashes associated with levels of exposure that are all too common.
